@@ -1,0 +1,9 @@
+/target/
+*.DS_Store
+pom.xml.*
+dependency-reduced-pom.xml
+/out/
+/*.iml
+/.idea/
+*.zip
+*.log
