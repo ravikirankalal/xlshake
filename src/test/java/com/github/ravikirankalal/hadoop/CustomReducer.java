@@ -1,4 +1,4 @@
-package com.github.ravikirankalal;
+package com.github.ravikirankalal.hadoop;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;

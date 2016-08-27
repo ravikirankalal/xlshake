@@ -1,4 +1,4 @@
-package com.github.ravikirankalal;
+package com.github.ravikirankalal.hadoop;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.hadoop.io.LongWritable;

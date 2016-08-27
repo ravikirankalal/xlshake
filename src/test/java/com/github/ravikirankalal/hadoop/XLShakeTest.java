@@ -1,4 +1,4 @@
-package com.github.ravikirankalal;
+package com.github.ravikirankalal.hadoop;
 
 import com.github.ravikirankalal.hadoop.inputFormat.HSSFInputFormat;
 import com.github.ravikirankalal.hadoop.inputFormat.XSSFInputFormat;
